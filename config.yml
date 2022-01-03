@@ -51,13 +51,6 @@ engine:                      # Engine settings.
     UCI_ShowWDL: false
     UCI_Elo  : 2850
     NetworkLag: "10"
-    MaterialWeight: "90"
-    PassedPawnWeight: "180"
-    MobilityWeight: "250"
-    ThreatWeight: "300"
-    KingAttackWeight: "30"
-    KingShelterWeight: "150"
-    RepeatScore: "-50"
 #   go_commands:             # Additional options to pass to the UCI go command.
 #     nodes: 1               # Search so many nodes only.
 #     depth: 5               # Search depth ply only.
